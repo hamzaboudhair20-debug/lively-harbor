@@ -24,7 +24,8 @@ highlight_name: true
 
 # Avatar (your profile picture)
 avatar:
-  filename: "image.png"
+  filename: "avatar.png"
+
 
 # Role/position/tagline
 role: Renewable Energy Engineer
