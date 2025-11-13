@@ -21,6 +21,8 @@ superuser: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Avatar (your profile picture)
 avatar:
   filename: "image.jpg"
 
