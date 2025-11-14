@@ -26,7 +26,6 @@ highlight_name: true
 avatar:
   filename: "avatar.png"
 
-
 # Role/position/tagline
 role: Renewable Energy Engineer
 
@@ -54,7 +53,6 @@ interests:
 education:
   - area: Master – Electronics and Materials for Renewable Energies
     institution: Polydisciplinary Faculty of Ouarzazate
-    icon: ""
     date_start: 2023-09-01
     date_end: 2025-06-30
     summary: |
@@ -63,7 +61,6 @@ education:
 
   - area: Professional Bachelor – Renewable Energies & Sustainable Development
     institution: Higher School of Technology of Essaouira
-    icon: ""
     date_start: 2021-09-01
     date_end: 2022-06-30
     summary: |
@@ -71,7 +68,6 @@ education:
 
   - area: Technical University Diploma – Renewable Energies and Energy Efficiency
     institution: Higher School of Technology of Guelmim
-    icon: ""
     date_start: 2019-09-01
     date_end: 2021-06-30
     summary: |
@@ -80,70 +76,53 @@ education:
 work:
   - position: Numerical study of a HAWT wind turbine using QBlade
     company_name: ENSA Agadir – Energy, Mechanics & Environment Laboratory
-    company_url: ''
-    icon: ''
     date_start: 2025-02-01
     date_end: 2025-06-30
     summary: |
-      Aerodynamic modelling with BEMT, performance analysis and blade
-      geometry optimization for a horizontal-axis wind turbine.
+      Aerodynamic modelling with BEMT, performance analysis and blade geometry optimization.
 
   - position: Techno-economic study of a grid-connected PV system
     company_name: ECOWATT – Agadir
-    company_url: ''
-    icon: ''
     date_start: 2022-04-01
     date_end: 2022-06-30
     summary: |
-      PV system simulation using PVSYST, energy yield estimation and
-      financial analysis (CAPEX, OPEX, payback).
+      PV simulation using PVSYST, energy yield estimation and financial analysis.
 
   - position: Study of a standalone and hybrid PV installation
     company_name: Regional Directorate of Energy and Mines – Agadir
-    company_url: ''
-    icon: ''
     date_start: 2021-04-01
     date_end: 2021-06-30
     summary: |
-      Load analysis, PV and battery sizing, and design of an autonomous
-      and grid-connected hybrid system.
+      Load analysis, PV/battery sizing, and hybrid system design.
 
 skills:
   - name: Technical Skills
     items:
       - name: PV and wind system design
-        description: ''
         percent: 90
         icon: bolt
       - name: Energy auditing & efficiency
-        description: ''
         percent: 85
         icon: chart-bar
       - name: Power electronics & electrical machines
-        description: ''
         percent: 85
         icon: cpu-chip
       - name: Numerical modelling & optimization
-        description: ''
         percent: 80
         icon: beaker
 
   - name: Software
     items:
       - name: PVSYST / PV*SOL / RETScreen
-        description: ''
         percent: 90
         icon: computer-desktop
       - name: QBlade / BINAYATE
-        description: ''
         percent: 85
         icon: sparkles
       - name: MATLAB / Python
-        description: ''
         percent: 75
         icon: code-bracket
       - name: AutoCAD / Office
-        description: ''
         percent: 85
         icon: document-text
 
@@ -158,24 +137,17 @@ languages:
     percent: 90
 
 awards: []
+---
 
 ## Certifications
 
-- **PVSyst Technical Training** – Photovoltaic system simulation, energy yield analysis and performance ratio evaluation.
-- **HOMER Pro Microgrid Modelling** – PV–battery–grid optimization and reliability assessment.
-- **MATLAB & Simulink Onramp (MathWorks)** – Numerical modelling and simulation fundamentals.
-- **IBM Python for Data Science Certification** – Data processing, numerical computing and visualization.
-- **RETScreen Expert Training** – Renewable energy project feasibility and financial analysis.
-- **Autodesk AutoCAD Electrical** – Electrical schematics and technical documentation.
-- **NREL SAM / PVWatts Training** – Solar energy modelling and system performance simulation.
-- **IRENA Renewable Energy Training** – Energy transition and international renewable policies.
-- **Electrical Safety & Protection Certification** – Electrical risk management and industrial protection systems.
-- **DTU Wind Energy Online Course** – Fundamentals of wind turbine aerodynamics.
-
----
-
-Hamza Boudhair is a renewable energy engineer with expertise in numerical
-modelling, photovoltaic and wind system design, and techno-economic
-optimization of energy installations. His work focuses on integrating
-sustainable technologies and advanced simulations to support the energy
-transition.
+- **PVSyst Technical Training** – Photovoltaic system simulation, performance ratio analysis.
+- **HOMER Pro Microgrid Modelling** – PV–battery–grid optimization & reliability assessment.
+- **MATLAB & Simulink Onramp (MathWorks)** – Numerical modelling essentials.
+- **IBM Python for Data Science Certification** – Data processing & visualization.
+- **RETScreen Expert Certification** – Energy feasibility & economic evaluation.
+- **AutoCAD Electrical Certification** – Electrical schematics design.
+- **NREL SAM / PVWatts Training** – Solar resource modelling & performance simulation.
+- **IRENA Renewable Energy Training** – International renewable energy policies.
+- **Electrical Safety & Protection Certification** – Industrial electrical safety.
+- **DTU Wind Energy Online Course** – Wind turbine aerodynamics fundamentals.
