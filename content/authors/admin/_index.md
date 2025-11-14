@@ -1,48 +1,38 @@
 ---
-# Display name
 title: Hamza Boudhair
-
-# Name pronunciation (optional)
-name_pronunciation: ''
-
-# Full name (for SEO)
 first_name: Hamza
 last_name: Boudhair
-
-# Pronouns (optional)
 pronouns: he/him
-
-# Status emoji
-status:
-  icon: ⚡
-
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Avatar (your profile picture)
 avatar:
   filename: "avatar.png"
 
-# Role/position/tagline
 role: Renewable Energy Engineer
 
-# Organizations/Affiliations to display in Biography block
+status:
+  icon: ⚡
+
 organizations:
   - name: Young Renewable Energy Engineer – Renewable Energies & Energy Efficiency
-    url: ''
+    url: ""
 
-# Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:hamza.boudhair@example.com'
-    label: E-mail
+    url: "mailto:hamza.boudhair@example.com"
+    label: Email
+
   - icon: brands/linkedin
-    url: 'https://www.linkedin.com'
+    url: "https://www.linkedin.com"
+
   - icon: brands/github
-    url: 'https://github.com'
+    url: "https://github.com"
+
+  - icon: brands/whatsapp
+    url: "https://wa.me/212687251879"
+    label: WhatsApp
+
 
 interests:
   - Renewable energy systems
@@ -50,6 +40,9 @@ interests:
   - Numerical simulation & optimization
   - Energy efficiency & sustainable development
 
+# ----------------------------
+# EDUCATION
+# ----------------------------
 education:
   - area: Master – Electronics and Materials for Renewable Energies
     institution: Polydisciplinary Faculty of Ouarzazate
@@ -73,6 +66,9 @@ education:
     summary: |
       Sizing of PV and wind systems, biomass, heat transfer, electrical machines.
 
+# ----------------------------
+# EXPERIENCE
+# ----------------------------
 work:
   - position: Numerical study of a HAWT wind turbine using QBlade
     company_name: ENSA Agadir – Energy, Mechanics & Environment Laboratory
@@ -95,6 +91,9 @@ work:
     summary: |
       Load analysis, PV/battery sizing, and hybrid system design.
 
+# ----------------------------
+# SKILLS
+# ----------------------------
 skills:
   - name: Technical Skills
     items:
@@ -139,15 +138,15 @@ languages:
 awards: []
 ---
 
-## Certifications
+# Certifications
 
-- **PVSyst Technical Training** – Photovoltaic system simulation, performance ratio analysis.
-- **HOMER Pro Microgrid Modelling** – PV–battery–grid optimization & reliability assessment.
-- **MATLAB & Simulink Onramp (MathWorks)** – Numerical modelling essentials.
-- **IBM Python for Data Science Certification** – Data processing & visualization.
-- **RETScreen Expert Certification** – Energy feasibility & economic evaluation.
-- **AutoCAD Electrical Certification** – Electrical schematics design.
-- **NREL SAM / PVWatts Training** – Solar resource modelling & performance simulation.
-- **IRENA Renewable Energy Training** – International renewable energy policies.
-- **Electrical Safety & Protection Certification** – Industrial electrical safety.
-- **DTU Wind Energy Online Course** – Wind turbine aerodynamics fundamentals.
+- **PVSyst Technical Training** – Photovoltaic system simulation, performance ratio analysis.  
+- **HOMER Pro Microgrid Modelling** – PV–battery–grid optimization & reliability assessment.  
+- **MATLAB & Simulink Onramp (MathWorks)** – Numerical modelling essentials.  
+- **IBM Python for Data Science Certification** – Data processing & visualization.  
+- **RETScreen Expert Certification** – Renewable energy project feasibility & economic evaluation.  
+- **AutoCAD Electrical Certification** – Electrical schematics design.  
+- **NREL SAM / PVWatts Training** – Solar resource modelling & performance simulation.  
+- **IRENA Renewable Energy Training** – Energy transition & renewable policies.  
+- **Electrical Safety & Protection Certification** – Industrial electrical safety.  
+- **DTU Wind Energy Online Course** – Wind turbine aerodynamics fundamentals.  
