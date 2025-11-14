@@ -29,13 +29,26 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🌍 About My Work'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Renewable Energy Engineer specializing in **wind turbine aerodynamics**, **photovoltaic systems**, and **energy performance optimization**.
 
+        My work focuses on the integration of sustainable technologies through:
+        - Aerodynamic and structural analysis of HAWT blades (QBlade, BEMT, XFoil, QFEM)
+        - PV system design and techno-economic evaluation (PVSyst, RETScreen, PV*SOL)
+        - Hybrid PV–battery systems and off-grid installations
+        - Energy modelling, simulation, and performance assessment
+        - Optimization of clean energy solutions for real-world applications
+
+        I am passionate about applying advanced simulation tools and engineering methods to support the global energy transition.
+
+        Feel free to reach out for collaboration or research opportunities.
+    design:
+      columns: '1'
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
         Please reach out to collaborate 😃
