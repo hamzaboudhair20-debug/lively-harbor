@@ -5,8 +5,9 @@ date: 2025-06-30
 tags: ["Wind Energy", "QBlade", "BEMT", "Aeroelasticity", "Techno-economic Analysis"]
 weight: 1
 
-feature:
+image:
   filename: "qblade.png"
+  alt_text: "QBlade wind turbine project cover"
 
 links:
   - icon: "file-pdf"
