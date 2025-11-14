@@ -1,6 +1,6 @@
 ---
 title: "Numerical Study of a Horizontal-Axis Wind Turbine using QBlade"
-summary: "Aerodynamic, structural and techno-economic optimisation of HAWT blades using QBlade (BEMT, XFoil, QFEM, FVW) for a Mediterranean wind site."
+summary: "Aerodynamic, structural and techno-economic optimisation of HAWT blades using QBlade."
 date: 2025-06-30
 tags: ["Wind Energy", "QBlade", "BEMT", "Aeroelasticity", "Techno-economic Analysis"]
 weight: 1
