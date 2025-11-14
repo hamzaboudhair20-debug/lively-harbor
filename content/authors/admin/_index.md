@@ -159,6 +159,19 @@ languages:
 
 awards: []
 
+## Certifications
+
+- **PVSyst Technical Training** – Photovoltaic system simulation, energy yield analysis and performance ratio evaluation.
+- **HOMER Pro Microgrid Modelling** – PV–battery–grid optimization and reliability assessment.
+- **MATLAB & Simulink Onramp (MathWorks)** – Numerical modelling and simulation fundamentals.
+- **IBM Python for Data Science Certification** – Data processing, numerical computing and visualization.
+- **RETScreen Expert Training** – Renewable energy project feasibility and financial analysis.
+- **Autodesk AutoCAD Electrical** – Electrical schematics and technical documentation.
+- **NREL SAM / PVWatts Training** – Solar energy modelling and system performance simulation.
+- **IRENA Renewable Energy Training** – Energy transition and international renewable policies.
+- **Electrical Safety & Protection Certification** – Electrical risk management and industrial protection systems.
+- **DTU Wind Energy Online Course** – Fundamentals of wind turbine aerodynamics.
+
 ---
 
 Hamza Boudhair is a renewable energy engineer with expertise in numerical
