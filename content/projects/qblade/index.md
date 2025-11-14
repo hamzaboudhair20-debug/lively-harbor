@@ -39,7 +39,7 @@ critical von Mises stresses and a predicted lifetime of only **1.5 years**, wher
 blade reduces stresses by roughly **47%** and reaches a **27.4-year lifetime**, fully compliant with
 IEC 61400-1 requirements. The long-term techno-economic assessment (CAPEX, OPEX, LCOE,
 NPV and IRR) over 20 years demonstrates that only the heterogeneous configuration is
-economically viable, with a **positive net present value and a payback time of about 5.8 years**. :contentReference[oaicite:2]{index=2}  
+economically viable, with a **positive net present value and a payback time of about 5.8 years**. 
 
 Overall, the project highlights the importance of **multi-objective optimisation** that balances
 aerodynamic efficiency, structural integrity and economic performance for modern wind turbine
