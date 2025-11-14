@@ -5,10 +5,8 @@ date: 2025-06-30
 tags: ["Wind Energy", "QBlade", "BEMT", "Aeroelasticity", "Techno-economic Analysis"]
 weight: 1
 
-# Optional: if you later add an image in this folder (e.g. qblade.png)
-# uncomment and set the filename:
-# feature:
-#   image: "qblade.png"
+feature:
+  filename: "qblade.png"
 
 links:
   - icon: "file-pdf"
