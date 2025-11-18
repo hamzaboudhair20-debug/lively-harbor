@@ -95,6 +95,21 @@ work:
     date_end: 2021-06-30
     summary: |
       Load analysis, PV/battery sizing, and hybrid system design.
+  # ===========================
+  # PROJECTS
+  # ===========================
+  - block: collection
+    id: projects
+    content:
+      title: 'Projects'
+      subtitle: ''
+      text: ''
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 2
 
 # ----------------------------
 # SKILLS
