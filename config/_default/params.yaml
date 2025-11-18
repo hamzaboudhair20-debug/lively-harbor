@@ -1,31 +1,46 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-
-# Appearance
 appearance:
   mode: system
   color: indigo
 
-# SEO
+# =====================================================
+# SEO / MARKETING OPTIMIZATION
+# =====================================================
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: 'Hamza Boudhair'
-    description: 'Academic CV and portfolio of Hamza Boudhair, Renewable Energy Engineer specializing in wind turbine aerodynamics, photovoltaic systems, and energy optimization.'
-    twitter: ''
+    description: 'Portfolio and academic website of Hamza Boudhair, Renewable Energy Engineer specializing in wind turbine aerodynamics, photovoltaic systems, numerical modelling, and sustainable energy optimization.'
+    keywords:
+      - Renewable Energy
+      - Energy Engineer
+      - Wind Turbine Aerodynamics
+      - Photovoltaic Systems
+      - PV System Modelling
+      - Energy Optimization
+      - Hybrid Microgrids
+      - Numerical Simulation
+      - BEMT
+      - QBlade Engineer
+      - Sustainable Energy
+      - Hamza Boudhair
+    image: 'uploads/avatar.png'  # change si tu veux une autre image
+    open_graph: true
+    twitter_cards: true
   analytics:
-    google_analytics: ''
+    google_analytics: ''   # Tu peux coller un code GA4 si tu veux + SEO
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: ''  # pour Google Search Console
     baidu: ''
 
-# Site header
+# =====================================================
+# SITE HEADER
+# =====================================================
 header:
   navbar:
     enable: true
@@ -36,7 +51,9 @@ header:
     logo:
       text: 'Hamza Boudhair'
 
-# Site footer
+# =====================================================
+# FOOTER
+# =====================================================
 footer:
   copyright:
     notice: '© {year} Hamza Boudhair. All rights reserved.'
@@ -46,12 +63,16 @@ footer:
       share_alike: true
       allow_commercial: false
 
-# Localization
+# =====================================================
+# LOCALIZATION
+# =====================================================
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-# Site features
+# =====================================================
+# SITE FEATURES
+# =====================================================
 features:
   math:
     enable: false
