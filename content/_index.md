@@ -5,7 +5,6 @@ date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: '6rem'
 
 sections:
@@ -14,55 +13,48 @@ sections:
   # ===========================
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Hamza_Boudhair_CV.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About me'
+        education: 'Education'
+        interests: 'Research interests'
     design:
-      # Apply a gradient background
       css_class: hbx-bg-gradient
-      # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
 
   # ===========================
-  # ABOUT MY WORK (CUSTOM)
+  # ABOUT MY WORK
   # ===========================
   - block: markdown
     content:
       title: '🌍 About My Work'
-      subtitle: ''
       text: |-
         I am a Renewable Energy Engineer specializing in **wind turbine aerodynamics**, **photovoltaic systems**, and **energy performance optimization**.
 
-        My work focuses on the integration of sustainable technologies through:
-        - Aerodynamic and structural analysis of HAWT blades (QBlade, BEMT, XFoil, QFEM)
-        - PV system design and techno-economic evaluation (PVSyst, RETScreen, PV*SOL)
-        - Hybrid PV–battery systems and off-grid installations
-        - Energy modelling, simulation, and performance assessment
+        My work focuses on:
+        - Aerodynamic & structural analysis of HAWT blades (QBlade, BEMT, XFoil, QFEM)
+        - PV system design & techno-economic evaluation (PVSyst, RETScreen, PV*SOL)
+        - Hybrid PV–battery systems and off-grid engineering
+        - Energy modelling, simulation & performance assessment
         - Optimization of clean energy solutions for real-world applications
 
-        I am passionate about applying advanced simulation tools and engineering methods to support the global energy transition.
-
-        Feel free to reach out for collaboration or research opportunities.
+        I am passionate about applying advanced simulation tools to support the global energy transition.
     design:
       columns: '1'
 
   # ===========================
-  # FEATURED PUBLICATIONS
+  # PUBLICATIONS
   # ===========================
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 'Research Publications'
       filters:
         folders:
           - publications
@@ -72,18 +64,24 @@ sections:
       columns: 2
 
   # ===========================
-  # RECENT PUBLICATIONS
+  # CERTIFICATIONS
   # ===========================
-  - block: collection
+  - block: markdown
     content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      title: 'Certifications'
+      text: |-
+        - **PVSyst Technical Training** – Photovoltaic system simulation.  
+        - **HOMER Pro Microgrid Modelling** – PV–battery–grid modeling.  
+        - **MATLAB & Simulink Onramp** – Numerical modelling.  
+        - **IBM Python for Data Science** – Data processing & visualization.  
+        - **RETScreen Expert Certification** – Feasibility & economic analysis.  
+        - **AutoCAD Electrical Certification** – Electrical schematics design.  
+        - **NREL SAM / PVWatts** – Solar resource modelling.  
+        - **IRENA Renewable Energy Training** – Energy transition.  
+        - **Electrical Safety & Protection** – Industrial safety.  
+        - **DTU Wind Energy Course** – Wind turbine aerodynamics.
     design:
-      view: citation
+      columns: '1'
 
   # ===========================
   # TALKS
@@ -91,7 +89,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 'Recent & Upcoming Talks'
       filters:
         folders:
           - events
@@ -104,45 +102,14 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+      title: 'Recent News'
       page_type: blog
       count: 5
       filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
     design:
       view: card
       spacing:
         padding: [0, 0, 0, 0]
-
-  # ===========================
-  # DEMO CTA CARD (OPTIONAL)
-  # ===========================
-  - block: cta-card
-    demo: true # Only display in demo mode
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
 ---
