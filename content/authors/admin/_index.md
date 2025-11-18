@@ -14,6 +14,24 @@ role: Renewable Energy Engineer
 status:
   icon: ⚡
 
+# ===========================
+# ABOUT ME / BIOGRAPHY
+# ===========================
+bio: |
+  I am a Renewable Energy Engineer with a strong academic and technical background in
+  photovoltaic systems, wind turbine aerodynamics, hybrid microgrids, and energy performance
+  modelling. My work combines analytical engineering, numerical simulation, and optimization
+  methods to design efficient and sustainable energy solutions.
+
+  Over the years, I have strengthened my expertise through several professional certifications,
+  including PVSyst, HOMER Pro, MATLAB & Simulink, IBM Python for Data Science, RETScreen Expert,
+  AutoCAD Electrical, NREL SAM/PVWatts, IRENA Renewable Energy Training, Electrical Safety, and
+  DTU Wind Energy fundamentals.
+
+  These competencies allow me to approach renewable energy projects with a solid understanding
+  of engineering fundamentals and advanced simulation tools, with the goal of contributing to
+  impactful and sustainable energy solutions.
+
 links:
   - name: "Download CV"
     url: "https://drive.google.com/file/d/1OHoYWuZmjKa-mliwkAWDWd7QJPQ1U0-P/view?usp=sharing"
@@ -37,7 +55,6 @@ profiles:
   - icon: brands/whatsapp
     url: "https://wa.me/212687251879"
     label: WhatsApp
-
 
 interests:
   - Renewable energy systems
@@ -95,21 +112,13 @@ work:
     date_end: 2021-06-30
     summary: |
       Load analysis, PV/battery sizing, and hybrid system design.
-  # ===========================
-  # PROJECTS
-  # ===========================
-  - block: collection
-    id: projects
-    content:
-      title: 'Projects'
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - projects
-    design:
-      view: article-grid
-      columns: 2
+
+# ----------------------------
+# PROJECTS
+# ----------------------------
+projects:
+  - title: "Projects"
+    display: true
 
 # ----------------------------
 # SKILLS
@@ -155,18 +164,19 @@ languages:
   - name: English (fluent)
     percent: 90
 
-awards: []
+# ----------------------------
+# CERTIFICATIONS
+# ----------------------------
+certifications:
+  - "PVSyst Technical Training – Photovoltaic system simulation and performance ratio assessment."
+  - "HOMER Pro Microgrid Modelling – PV–battery–grid optimization and reliability evaluation."
+  - "MATLAB & Simulink Onramp – Numerical modelling and dynamic system simulation."
+  - "IBM Python for Data Science – Data analysis and visualization."
+  - "RETScreen Expert Certification – Renewable energy project feasibility analysis."
+  - "AutoCAD Electrical Certification – Industrial schematic design."
+  - "NREL SAM / PVWatts Training – Solar resource modelling and performance simulation."
+  - "IRENA Renewable Energy Training – Global renewable policy and energy transition."
+  - "Electrical Safety & Protection – Industrial electrical safety and risk prevention."
+  - "DTU Wind Energy Course – Fundamentals of wind turbine aerodynamics."
+
 ---
-
-# Certifications
-
-- **PVSyst Technical Training** – Photovoltaic system simulation, performance ratio analysis.  
-- **HOMER Pro Microgrid Modelling** – PV–battery–grid optimization & reliability assessment.  
-- **MATLAB & Simulink Onramp (MathWorks)** – Numerical modelling essentials.  
-- **IBM Python for Data Science Certification** – Data processing & visualization.  
-- **RETScreen Expert Certification** – Renewable energy project feasibility & economic evaluation.  
-- **AutoCAD Electrical Certification** – Electrical schematics design.  
-- **NREL SAM / PVWatts Training** – Solar resource modelling & performance simulation.  
-- **IRENA Renewable Energy Training** – Energy transition & renewable policies.  
-- **Electrical Safety & Protection Certification** – Industrial electrical safety.  
-- **DTU Wind Energy Online Course** – Wind turbine aerodynamics fundamentals.  
