@@ -11,6 +11,6 @@ summary: |
   Research topic: Aerodynamic modelling and performance optimization of a HAWT using
   QBlade (BEMT, aero-structural simulation, and performance curves).
 image:
-  filename: "master-logo.png"
+  filename: "master_image.png"
   focal_point: "center"
 ---
