@@ -1,5 +1,5 @@
 ---
-title: "Certification image"
+title: "Certification "
 cms_exclude: true
 view: citation
 banner:
