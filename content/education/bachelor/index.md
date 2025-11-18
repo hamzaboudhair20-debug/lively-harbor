@@ -9,7 +9,7 @@ summary: |
   PV–battery installations, energy efficiency, and electrical systems design.
   Includes practical training in PV sizing, energy audits, and performance assessment.
 image:
-  filename: "bachelor-logo.png"
+  filename: "LICENCE_image.png"
   focal_point: "center"
 ---
 
