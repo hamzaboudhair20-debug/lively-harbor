@@ -1,80 +1,29 @@
-# SITE SETUP
-appearance:
-  mode: system
-  color: indigo
-
-# =====================================================
-# SEO / MARKETING OPTIMIZATION
-# =====================================================
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: 'Hamza Boudhair'
-    description: 'Portfolio and academic website of Hamza Boudhair, Renewable Energy Engineer specializing in wind turbine aerodynamics, photovoltaic systems, numerical modelling, and sustainable energy optimization.'
+    local_business_type: ""
+    org_name: "Hamza Boudhair"
+    description: "Hamza Boudhair — Renewable Energy Engineer specializing in wind turbine aerodynamics, photovoltaic systems, hybrid microgrids, advanced numerical simulation, and sustainable energy optimization."
+    twitter: "hamza_boudhair"   # optionnel
     keywords:
-      - Renewable Energy
-      - Energy Engineer
-      - Wind Turbine Aerodynamics
-      - Photovoltaic Systems
-      - PV System Modelling
-      - Energy Optimization
-      - Hybrid Microgrids
-      - Numerical Simulation
-      - BEMT
-      - QBlade Engineer
-      - Sustainable Energy
+      - renewable energy engineer
+      - wind turbine aerodynamics
+      - photovoltaic systems design
+      - PV simulation PVSYST
+      - hybrid microgrid optimization
+      - energy modeling
+      - Materials for renewable energies
+      - numerical simulation and optimization
+      - energy transition
+      - sustainable engineering
       - Hamza Boudhair
-    image: 'uploads/avatar.png'  # change si tu veux une autre image
-    open_graph: true
-    twitter_cards: true
+      - Morocco renewable energy
   analytics:
-    google_analytics: ''   # Tu peux coller un code GA4 si tu veux + SEO
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: ""  # si tu veux activer Google Analytics plus tard
+    baidu_tongji: ""
+    plausible: ""
+    fathom: ""
+    pirsch: ""
   verification:
-    google: ''  # pour Google Search Console
-    baidu: ''
-
-# =====================================================
-# SITE HEADER
-# =====================================================
-header:
-  navbar:
-    enable: true
-    block: 'navbar'
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
-    logo:
-      text: 'Hamza Boudhair'
-
-# =====================================================
-# FOOTER
-# =====================================================
-footer:
-  copyright:
-    notice: '© {year} Hamza Boudhair. All rights reserved.'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-# =====================================================
-# LOCALIZATION
-# =====================================================
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-
-# =====================================================
-# SITE FEATURES
-# =====================================================
-features:
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
+    google: ""   # pour Google Search Console
+    baidu: ""
