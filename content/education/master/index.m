@@ -14,4 +14,3 @@ image:
   filename: "master-logo.png"
   focal_point: "center"
 ---
-
