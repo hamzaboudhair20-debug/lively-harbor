@@ -47,23 +47,22 @@ sections:
         I am passionate about applying advanced simulation tools to support the global energy transition.
     design:
       columns: '1'
-    
-# ===========================
-# EDUCATION (PREMIUM)
-# ===========================
-- block: collection
-  id: education
-  content:
-    title: "Education"
-    subtitle: ""
-    text: ""
-    filters:
-      folders:
-        - education
-  design:
-    view: card
-    columns: 2
 
+  # ===========================
+  # EDUCATION (PREMIUM)
+  # ===========================
+  - block: collection
+    id: education
+    content:
+      title: "Education"
+      subtitle: ""
+      text: ""
+      filters:
+        folders:
+          - education
+    design:
+      view: card
+      columns: 2
 
   # ===========================
   # PROJECTS
