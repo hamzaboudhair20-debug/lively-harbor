@@ -13,10 +13,17 @@ role: Renewable Energy Engineer
 
 status:
   icon: ⚡
+# ----------------------------
+# DOWNLOAD CV BUTTON
+# ----------------------------
+button:
+  text: "Download CV"
+  url: "uploads/Hamza_Boudhair_CV.pdf"
+  icon: "download"
 
 organizations:
   - name: Young Renewable Energy Engineer – Renewable Energies & Energy Efficiency
-    url: ""
+    url: "https://drive.google.com/file/d/1OHoYWuZmjKa-mliwkAWDWd7QJPQ1U0-P/view?usp=sharing"
 
 profiles:
   - icon: at-symbol
