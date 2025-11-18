@@ -1,6 +1,37 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+  # ===========================
+  # BIOGRAPHY SECTION
+  # ===========================
+  - block: resume-biography-3
+    content:
+      username: admin
+      text: |-
+        I am a Renewable Energy Engineer with a strong academic and technical background in
+        photovoltaic systems, wind turbine aerodynamics, hybrid microgrids, and energy performance
+        modelling. My work combines analytical engineering, numerical simulation, and optimization
+        methods to design efficient and sustainable energy solutions.
+
+        I have also strengthened my expertise through several professional certifications, including
+        PVSyst, HOMER Pro, MATLAB & Simulink, IBM Python for Data Science, RETScreen Expert,
+        AutoCAD Electrical, NREL SAM/PVWatts, IRENA Renewable Energy Training, Electrical Safety
+        & Protection, and DTU Wind Energy.
+
+        These skills allow me to approach renewable energy projects with both solid engineering
+        fundamentals and advanced simulation tools.
+      button:
+        text: Download CV
+        url: uploads/Hamza_Boudhair_CV.pdf
+      headings:
+        about: 'About me'
+        education: 'Education'
+        interests: 'Research interests'
+    design:
+      css_class: hbx-bg-gradient
+      avatar:
+        size: medium
+        shape: circle
+
 date: 2022-10-24
 type: landing
 
