@@ -1,0 +1,17 @@
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  schema:
+    type: Person
+    name: "Hamza Boudhair"
+    jobTitle: "Renewable Energy Engineer"
+    worksFor: "Independent Researcher"
+    url: "https://hamzaboudhair20-debug.github.io/lively-harbor/"
+    sameAs:
+      - "https://www.linkedin.com/in/hamza-boudhair"
+      - "https://github.com/hamzaboudhair20-debug"
+      - "mailto:hamza.boudhair@example.com"
