@@ -49,6 +49,22 @@ sections:
       columns: '1'
 
   # ===========================
+  # PROJECTS
+  # ===========================
+  - block: collection
+    id: projects
+    content:
+      title: 'Projects'
+      subtitle: ''
+      text: ''
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 2
+
+  # ===========================
   # PUBLICATIONS
   # ===========================
   - block: collection
