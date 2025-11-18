@@ -1,0 +1,19 @@
+# ================================
+# robots.txt for Hamza Boudhair
+# SEO-Optimized for Google Search
+# ================================
+
+User-agent: *
+Allow: /
+
+# Disallow Hugo system paths
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /author/
+Disallow: /page/
+
+# Block search result pages (avoid duplicate content)
+Disallow: /search/
+
+# Sitemap (VERY important for Google)
+Sitemap: https://hamzaboudhair20-debug.github.io/lively-harbor/sitemap.xml
