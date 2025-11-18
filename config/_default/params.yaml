@@ -27,3 +27,10 @@ marketing:
   verification:
     google: ""   # pour Google Search Console
     baidu: ""
+  opengraph:
+  enable: true
+  title: "Hamza Boudhair – Renewable Energy Engineer"
+  description: "Portfolio, academic research, energy engineering projects, and scientific expertise of Hamza Boudhair."
+  image: "uploads/avatar.png"
+  locale: "en_US"
+
