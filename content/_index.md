@@ -1,5 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
+title: ''
+date: 2022-10-24
+type: landing
+
+design:
+  spacing: '6rem'
+
+sections:
   # ===========================
   # BIOGRAPHY SECTION
   # ===========================
@@ -18,34 +26,7 @@
         & Protection, and DTU Wind Energy.
 
         These skills allow me to approach renewable energy projects with both solid engineering
-        fundamentals and advanced simulation tools.
-      button:
-        text: Download CV
-        url: uploads/Hamza_Boudhair_CV.pdf
-      headings:
-        about: 'About me'
-        education: 'Education'
-        interests: 'Research interests'
-    design:
-      css_class: hbx-bg-gradient
-      avatar:
-        size: medium
-        shape: circle
-
-date: 2022-10-24
-type: landing
-
-design:
-  spacing: '6rem'
-
-sections:
-  # ===========================
-  # BIOGRAPHY SECTION
-  # ===========================
-  - block: resume-biography-3
-    content:
-      username: admin
-      text: ''
+        foundations and advanced simulation tools.
       button:
         text: Download CV
         url: uploads/Hamza_Boudhair_CV.pdf
