@@ -16,7 +16,7 @@ status:
 
 links:
   - name: "Download CV"
-    url: "uploads/Hamza_Boudhair_CV.pdf"
+    url: "https://drive.google.com/file/d/1OHoYWuZmjKa-mliwkAWDWd7QJPQ1U0-P/view?usp=sharing"
     icon: download
 
 organizations:
