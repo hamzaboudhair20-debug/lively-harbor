@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /page/
+Disallow: /author/
+Disallow: /search/
+
+# Sitemap
+Sitemap: https://hamzaboudhair20-debug.github.io/lively-harbor/sitemap.xml
